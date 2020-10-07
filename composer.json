@@ -1,0 +1,29 @@
+{
+    "name": "timephp/files",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "description": "Rest controller to create api routes",
+    "homepage": "https://github.com/TimePHP-org/TimePHP-Files",
+    "keywords": ["TimePHP", "Framework", "PHP", "MVC", "Files"],
+    "minimum-stability": "dev",
+    "readme": "https://github.com/TimePHP-org/TimePHP-Files/blob/master/README.md",
+    "version": "0.0.1",
+    "support": {
+        "email": "timephp.org@gmail.com",
+        "docs": "https://timephp-org.github.io/TimePHP-Docs/#/",
+        "issues": "https://github.com/TimePHP-org/TimePHP-Files/issues",
+        "source": "https://github.com/TimePHP-org/TimePHP-Files/releases"
+    },
+    "authors": [
+        {
+            "name": "Robin B",
+            "email": "timephp.org@gmail.com",
+            "role": "developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TimePHP\\": "src/"
+        }
+    }
+}
