@@ -2,7 +2,7 @@
     "name": "timephp/files",
     "type": "library",
     "license": "GPL-3.0-or-later",
-    "description": "Rest controller to create api routes",
+    "description": "File manager based on static functions",
     "homepage": "https://github.com/TimePHP-org/TimePHP-Files",
     "keywords": ["TimePHP", "Framework", "PHP", "MVC", "Files"],
     "minimum-stability": "dev",
